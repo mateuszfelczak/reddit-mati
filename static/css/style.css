@@ -1,0 +1,18 @@
+.navbar-bottom {
+        border-bottom: 1px solid #808080;
+}
+.navbar-top {
+        border-top: 1px solid #808080;
+}
+.container {
+        color: white;
+}
+.errorlist {
+        color: red;
+        font-weight: bold;
+}
+
+.container-reset {
+        width: 80%;
+        margin: 0 auto;
+}
